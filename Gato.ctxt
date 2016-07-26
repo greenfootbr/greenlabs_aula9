@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Gato
+comment0.text=\r\n\ Classe\ para\ criar\ o\ personagem\ Gato.\r\n\ \r\n\ @author\ (Jhonatan\ Morais\ -\ jhonatanvinicius@gmail.com\ |\ jhonatan@dfjug.org)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Gato\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ executaSubidaDoPulo()
+comment3.params=
+comment3.target=int\ alturaDosPes()
+comment3.text=\r\n\ Retorna\ o\ valor\ do\ limite\ inferior\ do\ personagem\r\n
+comment4.params=
+comment4.target=int\ alturaAtual()
+comment4.text=\r\n\ Retorna\ a\ altura\ atual\ do\ personagem\ dentro\ do\ jogo\r\n
+comment5.params=
+comment5.target=boolean\ possoAtualizar()
+comment5.text=\r\n\ Verifica\ se\ a\ imgem\ do\ ator\ ja\ pode\ ser\ atualizada\r\n
+numComments=6
