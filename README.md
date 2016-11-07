@@ -8,6 +8,9 @@ Nesta aula nós vamos mostrar como capturar os comandos que o jogador faz via te
 * Usar matemática para contornar a força da gravidade.
 * Dividir as responsabilidades de uma ação complexa em métodos simples.
 
+## Vídeo Aula
+* [Assista ao vídeo desta aula](https://youtu.be/LZ-gkxM6VRg)
+
 ## Equipe | Team
 * Daniel de Oliveira
 * Luciene Cavalcante
